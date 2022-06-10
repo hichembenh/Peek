@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Peek GYM
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Static application made with react
 ## Available Scripts
 
 In the project directory, you can run:
